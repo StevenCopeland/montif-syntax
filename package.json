@@ -1,0 +1,15 @@
+{
+  "name": "montif-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/StevenCopeland/montif-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
