@@ -27,7 +27,7 @@ atom-text-editor {
       }
 
       &.cursor-line-no-selection {
-        color: @syntax-gutter-text-color-selected;
+        color: @dark-gray;
       }
     }
   }
@@ -35,7 +35,7 @@ atom-text-editor {
   .gutter .line-number.folded,
   .gutter .line-number:after,
   .fold-marker:after {
-    color: @light-gray;
+    color: @red;
   }
 
   .invisible {
@@ -43,7 +43,7 @@ atom-text-editor {
   }
 
   .cursor {
-    color: @syntax-cursor-color;
+    color: @black;
   }
 
   .selection .region {
@@ -55,7 +55,7 @@ atom-text-editor {
 // Syntax styles
 
 .syntax--comment {
-  color: @white;
+  color: @gray;
 }
 
 .syntax--keyword {
@@ -120,7 +120,7 @@ atom-text-editor {
 }
 
 .syntax--string {
-  color: @yellow;
+  color: @green;
 
 
   &.syntax--regexp {
