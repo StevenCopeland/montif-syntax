@@ -15,3 +15,13 @@
 
 ## 0.12.0 - Release 0.12.0
 * Adding new features
+
+...
+
+## 0.17.0 - Fix bugs
+* Some really dumb bugs were created in the last version
+* Add new features
+    * Found a better background-color
+    * Changing the line numbers background-color
+    * Changing the line numbers color
+* Changing the selected line numbers color.
