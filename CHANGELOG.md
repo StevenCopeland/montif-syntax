@@ -10,3 +10,8 @@
 ## 0.3.0 - 3rd Release
 * All bugs fixed
 * All features added
+
+...
+
+## 0.12.0 - Release 0.12.0
+* Adding new features
